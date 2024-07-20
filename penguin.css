@@ -357,6 +357,9 @@
   .yogi-link{
     margin: 0 auto;
     text-align: center;
+    left: 0;
+    top: 0;
+    position: absolute;
     
   }
 
